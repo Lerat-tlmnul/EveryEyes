@@ -1,0 +1,6 @@
+{
+  "name": "LeakTrace - Audit d'Empreinte Numérique & Fuites de Données",
+  "description": "Plateforme d'audit de sécurité et d'exposition aux fuites de données personnelles dans le style Vercel. Analysez votre empreinte numérique, vos risques de corrélation et sécurisez vos comptes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
